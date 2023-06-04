@@ -121,6 +121,8 @@ The project also utilizes external libraries and resources, including:
 
 ## Testing
 
+![Alt Text](/img2/face.png)
+
 ### Methods
 
 - Validation: The HTML has been validated with the W3C HTML5 Validator, and the CSS has been validated with the W3C CSS Validator. Auto-prefixing has been applied using CSS Autoprefixer.
